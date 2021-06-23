@@ -880,10 +880,6 @@
         }
         /***************************** Gallary Section Start **************************/
         
-        .gallary {
-            /* margin-top: -10px; */
-        }
-        
         .gallary-item {
             position: relative;
             overflow: hidden;
